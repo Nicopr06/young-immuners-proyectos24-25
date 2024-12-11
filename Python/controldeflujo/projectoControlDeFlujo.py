@@ -10,7 +10,7 @@ Total = 0
 while True:
     print("1= bicicetanormal= 10€")
     print("2= bicicletaelectrica = 20€")
-    print("3= bicicletapequeña = 20€")
+    print("3= bicicletapequeña = 5€")
     Tipo_bici = input("¿Que tipo de bicicleta quieres? (1, 2 o 3): ")
     compra_casco = input("¿Necesitas casco?: (si o no): ")
     otra = input("¿Necesitas otra Bicicleta? (si o no): ")
